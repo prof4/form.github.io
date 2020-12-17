@@ -17,15 +17,16 @@
       <span class="error"><?= $discord_error ?></span>
     </fieldset>
     <fieldset>
-      <input placeholder="Your Web Site starts with http://" type="text" name="url" tabindex="4" >
+      <input placeholder="Your Web Site starts with http://" type="text" name="url" value="<= $url ?>" tabindex="4" >
       <span class="error"><?= $url_error ?></span>
     </fieldset>
     <fieldset>
-      <textarea placeholder="Type your Message Here...." type="text" name="message" tabindex="5" ></textarea>
+      <textarea placeholder="Type your Message Here...." type="text" name="message" value="<= $message ?>" tabindex="5" ></textarea>
     </fieldset>
     <fieldset>
       <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
     </fieldset>
+    <div class="success"><?= $success; ?></div>
   </form>
  
   

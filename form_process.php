@@ -2,7 +2,7 @@
 
 //define variables and set to empty values
 $name_error = $email_error = $phone_error = $url_error = "";
-$name = $email = $phone = $message = $url = "";
+$name = $email = $phone = $message = $url = $success= "";
 
 //form is submitted with POST method
 if($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -46,6 +46,21 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
         $message= "";
     } else{
         $message = test_input($_POST["message"]);
+    }
+
+    if ($name_error == '' and $email_error == '' and $discord_error =='' and $url_error == ''){
+        $message_body = '';
+        unset($_POST['submit']);
+        foreach ($_POST as $key => $value){
+            $message_body .= "$key: $value\n";
+        }
+
+        $to = 'ultralgendsoul@gmail.com';
+        $subject = 'contact form submit';
+        if (mail($to, $subject, $message)){
+            $success = "Message sent, thank you for contacting us!";
+            $name_error = $email_error = $phone_error = $url_error = "";
+        }
     }
     
 }
