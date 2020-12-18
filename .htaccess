@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^index$ index.php
+AddType applicatio/xhttpd-php .htm .html .io
