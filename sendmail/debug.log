@@ -1,0 +1,366 @@
+20-12-18 13:02:05 ** --- MESSAGE BEGIN ---
+20-12-18 13:02:05 ** To: ultralgendsoul@gmail.com
+20-12-18 13:02:05 ** Subject: contact form submit
+20-12-18 13:02:05 ** 
+20-12-18 13:02:05 ** 
+20-12-18 13:02:05 ** --- MESSAGE END ---
+20-12-18 13:02:07 ** Connecting to smtp.gmail.com:587
+20-12-18 13:02:17 ** Connected.
+20-12-18 13:02:17 << 220 smtp.gmail.com ESMTP d13sm5366365ejc.44 - gsmtp<EOL>
+20-12-18 13:02:17 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 13:02:17 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 13:02:17 ** Authenticating as ultralegendsoul@gmail.com
+20-12-18 13:02:17 >> STARTTLS<EOL>
+20-12-18 13:02:17 << 220 2.0.0 Ready to start TLS<EOL>
+20-12-18 13:02:17 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 13:02:17 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 13:02:17 >> AUTH LOGIN<EOL>
+20-12-18 13:02:17 << 334 VXNlcm5hbWU6<EOL>
+20-12-18 13:02:17 >> dWx0cmFsZWdlbmRzb3VsQGdtYWlsLmNvbQ==<EOL>
+20-12-18 13:02:17 << 334 UGFzc3dvcmQ6<EOL>
+20-12-18 13:02:17 >> MTdTYWJpKkRpcmkk<EOL>
+20-12-18 13:02:17 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials d13sm5366365ejc.44 - gsmtp<EOL>
+20-12-18 13:02:17 ** Disconnecting from smtp.gmail.com:587
+20-12-18 13:02:17 ** Disconnected.
+20-12-18 13:02:17 ** Disconnected.
+20-12-18 13:02:17 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials d13sm5366365ejc.44 - gsmtp<EOL>
+20-12-18 13:03:01 ** --- MESSAGE BEGIN ---
+20-12-18 13:03:01 ** To: ultralgendsoul@gmail.com
+20-12-18 13:03:01 ** Subject: contact form submit
+20-12-18 13:03:01 ** 
+20-12-18 13:03:01 ** 
+20-12-18 13:03:01 ** --- MESSAGE END ---
+20-12-18 13:03:02 ** Connecting to smtp.gmail.com:587
+20-12-18 13:03:02 ** Connected.
+20-12-18 13:03:02 << 220 smtp.gmail.com ESMTP h12sm5257743eja.113 - gsmtp<EOL>
+20-12-18 13:03:02 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 13:03:02 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 13:03:02 ** Authenticating as ultralegendsoul@gmail.com
+20-12-18 13:03:02 >> STARTTLS<EOL>
+20-12-18 13:03:02 << 220 2.0.0 Ready to start TLS<EOL>
+20-12-18 13:03:02 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 13:03:02 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 13:03:02 >> AUTH LOGIN<EOL>
+20-12-18 13:03:02 << 334 VXNlcm5hbWU6<EOL>
+20-12-18 13:03:02 >> dWx0cmFsZWdlbmRzb3VsQGdtYWlsLmNvbQ==<EOL>
+20-12-18 13:03:02 << 334 UGFzc3dvcmQ6<EOL>
+20-12-18 13:03:02 >> MTdTYWJpKkRpcmkk<EOL>
+20-12-18 13:03:03 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials h12sm5257743eja.113 - gsmtp<EOL>
+20-12-18 13:03:03 ** Disconnecting from smtp.gmail.com:587
+20-12-18 13:03:03 ** Disconnected.
+20-12-18 13:03:03 ** Disconnected.
+20-12-18 13:03:03 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials h12sm5257743eja.113 - gsmtp<EOL>
+20-12-18 13:14:14 ** --- MESSAGE BEGIN ---
+20-12-18 13:14:14 ** To: ultralgendsoul@gmail.com
+20-12-18 13:14:14 ** Subject: contact form submit
+20-12-18 13:14:14 ** 
+20-12-18 13:14:14 ** 
+20-12-18 13:14:14 ** --- MESSAGE END ---
+20-12-18 13:14:15 ** Connecting to smtp.gmail.com:465
+20-12-18 13:14:16 ** Connected.
+20-12-18 13:14:16 << 220 smtp.gmail.com ESMTP p22sm5409738ejx.59 - gsmtp<EOL>
+20-12-18 13:14:16 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 13:14:16 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 13:14:16 ** Authenticating as ultralegendsoul@gmail.com
+20-12-18 13:14:16 >> AUTH LOGIN<EOL>
+20-12-18 13:14:16 << 334 VXNlcm5hbWU6<EOL>
+20-12-18 13:14:16 >> dWx0cmFsZWdlbmRzb3VsQGdtYWlsLmNvbQ==<EOL>
+20-12-18 13:14:16 << 334 UGFzc3dvcmQ6<EOL>
+20-12-18 13:14:16 >> MTdTYWJpKkRpcmkk<EOL>
+20-12-18 13:14:16 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials p22sm5409738ejx.59 - gsmtp<EOL>
+20-12-18 13:14:16 ** Disconnecting from smtp.gmail.com:465
+20-12-18 13:14:16 ** Disconnected.
+20-12-18 13:14:16 ** Disconnected.
+20-12-18 13:14:16 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials p22sm5409738ejx.59 - gsmtp<EOL>
+20-12-18 13:14:27 ** --- MESSAGE BEGIN ---
+20-12-18 13:14:27 ** To: ultralgendsoul@gmail.com
+20-12-18 13:14:27 ** Subject: contact form submit
+20-12-18 13:14:27 ** 
+20-12-18 13:14:27 ** 
+20-12-18 13:14:27 ** --- MESSAGE END ---
+20-12-18 13:14:28 ** Connecting to smtp.gmail.com:465
+20-12-18 13:14:29 ** Connected.
+20-12-18 13:14:29 << 220 smtp.gmail.com ESMTP cb21sm25453531edb.57 - gsmtp<EOL>
+20-12-18 13:14:29 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 13:14:29 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 13:14:29 ** Authenticating as ultralegendsoul@gmail.com
+20-12-18 13:14:29 >> AUTH LOGIN<EOL>
+20-12-18 13:14:29 << 334 VXNlcm5hbWU6<EOL>
+20-12-18 13:14:29 >> dWx0cmFsZWdlbmRzb3VsQGdtYWlsLmNvbQ==<EOL>
+20-12-18 13:14:29 << 334 UGFzc3dvcmQ6<EOL>
+20-12-18 13:14:29 >> MTdTYWJpKkRpcmkk<EOL>
+20-12-18 13:14:29 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials cb21sm25453531edb.57 - gsmtp<EOL>
+20-12-18 13:14:29 ** Disconnecting from smtp.gmail.com:465
+20-12-18 13:14:29 ** Disconnected.
+20-12-18 13:14:29 ** Disconnected.
+20-12-18 13:14:29 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials cb21sm25453531edb.57 - gsmtp<EOL>
+20-12-18 14:08:21 ** --- MESSAGE BEGIN ---
+20-12-18 14:08:21 ** To: ultralgendsoul@gmail.com
+20-12-18 14:08:21 ** Subject: contact form submit
+20-12-18 14:08:21 ** 
+20-12-18 14:08:21 ** 
+20-12-18 14:08:21 ** --- MESSAGE END ---
+20-12-18 14:08:22 ** Connecting to smtp.gmail.com:465
+20-12-18 14:08:23 ** Connected.
+20-12-18 14:08:23 << 220 smtp.gmail.com ESMTP s5sm5525436eju.98 - gsmtp<EOL>
+20-12-18 14:08:23 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 14:08:23 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 14:08:23 ** Authenticating as glitchtechie17@gmail.com
+20-12-18 14:08:23 >> AUTH LOGIN<EOL>
+20-12-18 14:08:23 << 334 VXNlcm5hbWU6<EOL>
+20-12-18 14:08:23 >> Z2xpdGNodGVjaGllMTdAZ21haWwuY29t<EOL>
+20-12-18 14:08:23 << 334 UGFzc3dvcmQ6<EOL>
+20-12-18 14:08:23 >> MTdTYWJpKkRpcmkk<EOL>
+20-12-18 14:08:23 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials s5sm5525436eju.98 - gsmtp<EOL>
+20-12-18 14:08:23 ** Disconnecting from smtp.gmail.com:465
+20-12-18 14:08:23 ** Disconnected.
+20-12-18 14:08:23 ** Disconnected.
+20-12-18 14:08:23 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials s5sm5525436eju.98 - gsmtp<EOL>
+20-12-18 14:08:26 ** --- MESSAGE BEGIN ---
+20-12-18 14:08:26 ** To: ultralgendsoul@gmail.com
+20-12-18 14:08:26 ** Subject: contact form submit
+20-12-18 14:08:26 ** 
+20-12-18 14:08:26 ** 
+20-12-18 14:08:26 ** --- MESSAGE END ---
+20-12-18 14:08:27 ** Connecting to smtp.gmail.com:465
+20-12-18 14:08:28 ** Connected.
+20-12-18 14:08:28 << 220 smtp.gmail.com ESMTP c25sm5377576ejx.39 - gsmtp<EOL>
+20-12-18 14:08:28 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 14:08:28 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 14:08:28 ** Authenticating as glitchtechie17@gmail.com
+20-12-18 14:08:28 >> AUTH LOGIN<EOL>
+20-12-18 14:08:28 << 334 VXNlcm5hbWU6<EOL>
+20-12-18 14:08:28 >> Z2xpdGNodGVjaGllMTdAZ21haWwuY29t<EOL>
+20-12-18 14:08:28 << 334 UGFzc3dvcmQ6<EOL>
+20-12-18 14:08:28 >> MTdTYWJpKkRpcmkk<EOL>
+20-12-18 14:08:28 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials c25sm5377576ejx.39 - gsmtp<EOL>
+20-12-18 14:08:28 ** Disconnecting from smtp.gmail.com:465
+20-12-18 14:08:28 ** Disconnected.
+20-12-18 14:08:28 ** Disconnected.
+20-12-18 14:08:28 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials c25sm5377576ejx.39 - gsmtp<EOL>
+20-12-18 14:11:05 ** --- MESSAGE BEGIN ---
+20-12-18 14:11:05 ** To: ultralgendsoul@gmail.com
+20-12-18 14:11:05 ** Subject: contact form submit
+20-12-18 14:11:05 ** 
+20-12-18 14:11:05 ** 
+20-12-18 14:11:05 ** --- MESSAGE END ---
+20-12-18 14:11:06 ** Connecting to smtp.gmail.com:465
+20-12-18 14:11:07 ** Connected.
+20-12-18 14:11:07 << 220 smtp.gmail.com ESMTP o10sm5494194eju.89 - gsmtp<EOL>
+20-12-18 14:11:07 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 14:11:07 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 14:11:07 ** Authenticating as glitchtechie17@gmail.com
+20-12-18 14:11:07 >> AUTH LOGIN<EOL>
+20-12-18 14:11:07 << 334 VXNlcm5hbWU6<EOL>
+20-12-18 14:11:07 >> Z2xpdGNodGVjaGllMTdAZ21haWwuY29t<EOL>
+20-12-18 14:11:07 << 334 UGFzc3dvcmQ6<EOL>
+20-12-18 14:11:07 >> MTdTYWJpKkRpcmkk<EOL>
+20-12-18 14:11:07 << 235 2.7.0 Accepted<EOL>
+20-12-18 14:11:07 >> MAIL FROM: <glitchtechie17@gmail.com><EOL>
+20-12-18 14:11:07 << 250 2.1.0 OK o10sm5494194eju.89 - gsmtp<EOL>
+20-12-18 14:11:07 >> RCPT TO: <ultralgendsoul@gmail.com><EOL>
+20-12-18 14:11:07 << 250 2.1.5 OK o10sm5494194eju.89 - gsmtp<EOL>
+20-12-18 14:11:07 >> DATA<EOL>
+20-12-18 14:11:07 << 354  Go ahead o10sm5494194eju.89 - gsmtp<EOL>
+20-12-18 14:11:07 >> Date: Fri, 18 Dec 2020 14:11:07 +0100<EOL>
+20-12-18 14:11:07 >> To: ultralgendsoul@gmail.com<EOL>
+20-12-18 14:11:07 >> Subject: contact form submit<EOL>
+20-12-18 14:11:07 >> <EOL>
+20-12-18 14:11:07 >> <EOL>
+20-12-18 14:11:07 >> .<EOL>
+20-12-18 14:11:08 << 250 2.0.0 OK  1608297044 o10sm5494194eju.89 - gsmtp<EOL>
+20-12-18 14:11:08 >> QUIT<EOL>
+20-12-18 14:11:08 << 221 2.0.0 closing connection o10sm5494194eju.89 - gsmtp<EOL>
+20-12-18 14:11:08 ** Disconnecting from smtp.gmail.com:465
+20-12-18 14:11:08 ** Disconnected.
+20-12-18 14:11:08 ** Disconnected.
+20-12-18 14:15:20 ** --- MESSAGE BEGIN ---
+20-12-18 14:15:20 ** To: ultralgendsoul@gmail.com
+20-12-18 14:15:20 ** Subject: contact form submit
+20-12-18 14:15:20 ** 
+20-12-18 14:15:20 ** 
+20-12-18 14:15:20 ** --- MESSAGE END ---
+20-12-18 14:15:22 ** Connecting to smtp.gmail.com:465
+20-12-18 14:15:22 ** Connected.
+20-12-18 14:15:22 << 220 smtp.gmail.com ESMTP b14sm9091008edf.34 - gsmtp<EOL>
+20-12-18 14:15:22 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 14:15:22 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 14:15:22 ** Authenticating as glitchtechie17@gmail.com
+20-12-18 14:15:22 >> AUTH LOGIN<EOL>
+20-12-18 14:15:22 << 334 VXNlcm5hbWU6<EOL>
+20-12-18 14:15:22 >> Z2xpdGNodGVjaGllMTdAZ21haWwuY29t<EOL>
+20-12-18 14:15:22 << 334 UGFzc3dvcmQ6<EOL>
+20-12-18 14:15:22 >> MTdTYWJpKkRpcmkk<EOL>
+20-12-18 14:15:23 << 235 2.7.0 Accepted<EOL>
+20-12-18 14:15:23 >> MAIL FROM: <glitchtechie17@gmail.com><EOL>
+20-12-18 14:15:23 << 250 2.1.0 OK b14sm9091008edf.34 - gsmtp<EOL>
+20-12-18 14:15:23 >> RCPT TO: <ultralgendsoul@gmail.com><EOL>
+20-12-18 14:15:23 << 250 2.1.5 OK b14sm9091008edf.34 - gsmtp<EOL>
+20-12-18 14:15:23 >> DATA<EOL>
+20-12-18 14:15:23 << 354  Go ahead b14sm9091008edf.34 - gsmtp<EOL>
+20-12-18 14:15:23 >> Date: Fri, 18 Dec 2020 14:15:23 +0100<EOL>
+20-12-18 14:15:23 >> To: ultralgendsoul@gmail.com<EOL>
+20-12-18 14:15:23 >> Subject: contact form submit<EOL>
+20-12-18 14:15:23 >> <EOL>
+20-12-18 14:15:23 >> <EOL>
+20-12-18 14:15:23 >> .<EOL>
+20-12-18 14:15:23 << 250 2.0.0 OK  1608297300 b14sm9091008edf.34 - gsmtp<EOL>
+20-12-18 14:15:23 >> QUIT<EOL>
+20-12-18 14:15:23 << 221 2.0.0 closing connection b14sm9091008edf.34 - gsmtp<EOL>
+20-12-18 14:15:23 ** Disconnecting from smtp.gmail.com:465
+20-12-18 14:15:23 ** Disconnected.
+20-12-18 14:15:23 ** Disconnected.
+20-12-18 14:16:42 ** --- MESSAGE BEGIN ---
+20-12-18 14:16:42 ** To: ultralegendsoul@gmail.com
+20-12-18 14:16:42 ** Subject: contact form submit
+20-12-18 14:16:42 ** 
+20-12-18 14:16:42 ** 
+20-12-18 14:16:42 ** --- MESSAGE END ---
+20-12-18 14:16:43 ** Connecting to smtp.gmail.com:465
+20-12-18 14:16:44 ** Connected.
+20-12-18 14:16:44 << 220 smtp.gmail.com ESMTP ci20sm5414001ejc.26 - gsmtp<EOL>
+20-12-18 14:16:44 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 14:16:44 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 14:16:44 ** Authenticating as glitchtechie17@gmail.com
+20-12-18 14:16:44 >> AUTH LOGIN<EOL>
+20-12-18 14:16:44 << 334 VXNlcm5hbWU6<EOL>
+20-12-18 14:16:44 >> Z2xpdGNodGVjaGllMTdAZ21haWwuY29t<EOL>
+20-12-18 14:16:44 << 334 UGFzc3dvcmQ6<EOL>
+20-12-18 14:16:44 >> MTdTYWJpKkRpcmkk<EOL>
+20-12-18 14:16:44 << 235 2.7.0 Accepted<EOL>
+20-12-18 14:16:44 >> MAIL FROM: <glitchtechie17@gmail.com><EOL>
+20-12-18 14:16:44 << 250 2.1.0 OK ci20sm5414001ejc.26 - gsmtp<EOL>
+20-12-18 14:16:44 >> RCPT TO: <ultralegendsoul@gmail.com><EOL>
+20-12-18 14:16:44 << 250 2.1.5 OK ci20sm5414001ejc.26 - gsmtp<EOL>
+20-12-18 14:16:44 >> DATA<EOL>
+20-12-18 14:16:44 << 354  Go ahead ci20sm5414001ejc.26 - gsmtp<EOL>
+20-12-18 14:16:44 >> Date: Fri, 18 Dec 2020 14:16:44 +0100<EOL>
+20-12-18 14:16:44 >> To: ultralegendsoul@gmail.com<EOL>
+20-12-18 14:16:44 >> Subject: contact form submit<EOL>
+20-12-18 14:16:44 >> <EOL>
+20-12-18 14:16:44 >> <EOL>
+20-12-18 14:16:44 >> .<EOL>
+20-12-18 14:16:44 << 250 2.0.0 OK  1608297381 ci20sm5414001ejc.26 - gsmtp<EOL>
+20-12-18 14:16:44 >> QUIT<EOL>
+20-12-18 14:16:44 << 221 2.0.0 closing connection ci20sm5414001ejc.26 - gsmtp<EOL>
+20-12-18 14:16:44 ** Disconnecting from smtp.gmail.com:465
+20-12-18 14:16:44 ** Disconnected.
+20-12-18 14:16:44 ** Disconnected.
+20-12-18 14:17:57 ** --- MESSAGE BEGIN ---
+20-12-18 14:17:57 ** To: ultralegendsoul@gmail.com
+20-12-18 14:17:57 ** Subject: contact form submit
+20-12-18 14:17:57 ** 
+20-12-18 14:17:57 ** uhk
+20-12-18 14:17:57 ** --- MESSAGE END ---
+20-12-18 14:17:58 ** Connecting to smtp.gmail.com:465
+20-12-18 14:17:59 ** Connected.
+20-12-18 14:17:59 << 220 smtp.gmail.com ESMTP k18sm24799928edx.18 - gsmtp<EOL>
+20-12-18 14:17:59 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 14:17:59 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 14:17:59 ** Authenticating as glitchtechie17@gmail.com
+20-12-18 14:17:59 >> AUTH LOGIN<EOL>
+20-12-18 14:17:59 << 334 VXNlcm5hbWU6<EOL>
+20-12-18 14:17:59 >> Z2xpdGNodGVjaGllMTdAZ21haWwuY29t<EOL>
+20-12-18 14:17:59 << 334 UGFzc3dvcmQ6<EOL>
+20-12-18 14:17:59 >> MTdTYWJpKkRpcmkk<EOL>
+20-12-18 14:17:59 << 235 2.7.0 Accepted<EOL>
+20-12-18 14:17:59 >> MAIL FROM: <glitchtechie17@gmail.com><EOL>
+20-12-18 14:17:59 << 250 2.1.0 OK k18sm24799928edx.18 - gsmtp<EOL>
+20-12-18 14:17:59 >> RCPT TO: <ultralegendsoul@gmail.com><EOL>
+20-12-18 14:17:59 << 250 2.1.5 OK k18sm24799928edx.18 - gsmtp<EOL>
+20-12-18 14:17:59 >> DATA<EOL>
+20-12-18 14:17:59 << 354  Go ahead k18sm24799928edx.18 - gsmtp<EOL>
+20-12-18 14:17:59 >> Date: Fri, 18 Dec 2020 14:17:59 +0100<EOL>
+20-12-18 14:17:59 >> To: ultralegendsoul@gmail.com<EOL>
+20-12-18 14:17:59 >> Subject: contact form submit<EOL>
+20-12-18 14:17:59 >> <EOL>
+20-12-18 14:17:59 >> uhk<EOL>
+20-12-18 14:17:59 >> .<EOL>
+20-12-18 14:17:59 << 250 2.0.0 OK  1608297456 k18sm24799928edx.18 - gsmtp<EOL>
+20-12-18 14:17:59 >> QUIT<EOL>
+20-12-18 14:17:59 << 221 2.0.0 closing connection k18sm24799928edx.18 - gsmtp<EOL>
+20-12-18 14:17:59 ** Disconnected.
+20-12-18 14:17:59 ** Disconnected.
+20-12-18 14:17:59 ** Disconnected.
+20-12-18 14:19:43 ** --- MESSAGE BEGIN ---
+20-12-18 14:19:43 ** To: ultralegendsoul@gmail.com
+20-12-18 14:19:43 ** Subject: contact form submit
+20-12-18 14:19:43 ** 
+20-12-18 14:19:43 ** hoe bedoEl ke
+20-12-18 14:19:43 ** --- MESSAGE END ---
+20-12-18 14:19:44 ** Connecting to smtp.gmail.com:465
+20-12-18 14:19:45 ** Connected.
+20-12-18 14:19:45 << 220 smtp.gmail.com ESMTP s1sm5581889ejx.25 - gsmtp<EOL>
+20-12-18 14:19:45 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 14:19:45 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 14:19:45 ** Authenticating as glitchtechie17@gmail.com
+20-12-18 14:19:45 >> AUTH LOGIN<EOL>
+20-12-18 14:19:45 << 334 VXNlcm5hbWU6<EOL>
+20-12-18 14:19:45 >> Z2xpdGNodGVjaGllMTdAZ21haWwuY29t<EOL>
+20-12-18 14:19:45 << 334 UGFzc3dvcmQ6<EOL>
+20-12-18 14:19:45 >> MTdTYWJpKkRpcmkk<EOL>
+20-12-18 14:19:45 << 235 2.7.0 Accepted<EOL>
+20-12-18 14:19:45 >> MAIL FROM: <glitchtechie17@gmail.com><EOL>
+20-12-18 14:19:45 << 250 2.1.0 OK s1sm5581889ejx.25 - gsmtp<EOL>
+20-12-18 14:19:45 >> RCPT TO: <ultralegendsoul@gmail.com><EOL>
+20-12-18 14:19:45 << 250 2.1.5 OK s1sm5581889ejx.25 - gsmtp<EOL>
+20-12-18 14:19:45 >> DATA<EOL>
+20-12-18 14:19:45 << 354  Go ahead s1sm5581889ejx.25 - gsmtp<EOL>
+20-12-18 14:19:45 >> Date: Fri, 18 Dec 2020 14:19:45 +0100<EOL>
+20-12-18 14:19:45 >> To: ultralegendsoul@gmail.com<EOL>
+20-12-18 14:19:45 >> Subject: contact form submit<EOL>
+20-12-18 14:19:45 >> <EOL>
+20-12-18 14:19:45 >> hoe bedoEl ke<EOL>
+20-12-18 14:19:45 >> .<EOL>
+20-12-18 14:19:46 << 250 2.0.0 OK  1608297563 s1sm5581889ejx.25 - gsmtp<EOL>
+20-12-18 14:19:46 >> QUIT<EOL>
+20-12-18 14:19:46 << 221 2.0.0 closing connection s1sm5581889ejx.25 - gsmtp<EOL>
+20-12-18 14:19:46 ** Disconnected.
+20-12-18 14:19:46 ** Disconnected.
+20-12-18 14:19:46 ** Disconnected.
+20-12-18 14:20:29 ** --- MESSAGE BEGIN ---
+20-12-18 14:20:29 ** To: ultralegendsoul@gmail.com
+20-12-18 14:20:29 ** Subject: contact form submit
+20-12-18 14:20:29 ** 
+20-12-18 14:20:29 ** name: Franmak
+20-12-18 14:20:29 ** email: franmak17@gmail.com
+20-12-18 14:20:29 ** discord: i8i8#6550
+20-12-18 14:20:29 ** url: https://www.spele.nl/
+20-12-18 14:20:29 ** message: 
+20-12-18 14:20:29 ** 
+20-12-18 14:20:29 ** --- MESSAGE END ---
+20-12-18 14:20:30 ** Connecting to smtp.gmail.com:465
+20-12-18 14:20:31 ** Connected.
+20-12-18 14:20:31 << 220 smtp.gmail.com ESMTP qh23sm5453124ejb.71 - gsmtp<EOL>
+20-12-18 14:20:31 >> EHLO LAPTOP-UVBI7K1Q<EOL>
+20-12-18 14:20:31 << 250-smtp.gmail.com at your service, [178.84.250.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-12-18 14:20:31 ** Authenticating as glitchtechie17@gmail.com
+20-12-18 14:20:31 >> AUTH LOGIN<EOL>
+20-12-18 14:20:31 << 334 VXNlcm5hbWU6<EOL>
+20-12-18 14:20:31 >> Z2xpdGNodGVjaGllMTdAZ21haWwuY29t<EOL>
+20-12-18 14:20:31 << 334 UGFzc3dvcmQ6<EOL>
+20-12-18 14:20:31 >> MTdTYWJpKkRpcmkk<EOL>
+20-12-18 14:20:31 << 235 2.7.0 Accepted<EOL>
+20-12-18 14:20:31 >> MAIL FROM: <glitchtechie17@gmail.com><EOL>
+20-12-18 14:20:31 << 250 2.1.0 OK qh23sm5453124ejb.71 - gsmtp<EOL>
+20-12-18 14:20:31 >> RCPT TO: <ultralegendsoul@gmail.com><EOL>
+20-12-18 14:20:31 << 250 2.1.5 OK qh23sm5453124ejb.71 - gsmtp<EOL>
+20-12-18 14:20:31 >> DATA<EOL>
+20-12-18 14:20:31 << 354  Go ahead qh23sm5453124ejb.71 - gsmtp<EOL>
+20-12-18 14:20:31 >> Date: Fri, 18 Dec 2020 14:20:31 +0100<EOL>
+20-12-18 14:20:31 >> To: ultralegendsoul@gmail.com<EOL>
+20-12-18 14:20:31 >> Subject: contact form submit<EOL>
+20-12-18 14:20:31 >> <EOL>
+20-12-18 14:20:31 >> name: Franmak<EOL>
+20-12-18 14:20:31 >> email: franmak17@gmail.com<EOL>
+20-12-18 14:20:31 >> discord: i8i8#6550<EOL>
+20-12-18 14:20:31 >> url: https://www.spele.nl/<EOL>
+20-12-18 14:20:31 >> message: <EOL>
+20-12-18 14:20:31 >> <EOL>
+20-12-18 14:20:31 >> .<EOL>
+20-12-18 14:20:31 << 250 2.0.0 OK  1608297608 qh23sm5453124ejb.71 - gsmtp<EOL>
+20-12-18 14:20:31 >> QUIT<EOL>
+20-12-18 14:20:31 << 221 2.0.0 closing connection qh23sm5453124ejb.71 - gsmtp<EOL>
+20-12-18 14:20:31 ** Disconnected.
+20-12-18 14:20:31 ** Disconnected.
+20-12-18 14:20:31 ** Disconnected.
